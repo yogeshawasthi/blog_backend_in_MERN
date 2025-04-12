@@ -1,0 +1,27 @@
+node_modules
+node_modules
+# Ignore all files in the node_modules directory
+# Node.js modules
+/node_modules
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store  # For macOS
+
+# Build files
+/build
+/dist
+
+# IDE or editor settings
+.vscode/
+.idea/
+
+# Dependency directories
+/coverage
